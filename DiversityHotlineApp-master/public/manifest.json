@@ -1,0 +1,23 @@
+{
+  "name": "Diversity Hotline App",
+  "short_name": "Diversity Hotline",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "A Hotline App.",
+  "orientation": "portrait", 
+  "background_color": "#ccc",
+  "theme_color": "#5FAAE5",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
